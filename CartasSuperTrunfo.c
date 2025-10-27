@@ -105,3 +105,4 @@ printf("codigo da carta: %s\n", codigoDacarta2);
 
 
 return 0;
+}
